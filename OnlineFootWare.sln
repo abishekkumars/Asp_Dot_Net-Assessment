@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineFootWare", "OnlineFootWare.csproj", "{1CE597F1-0909-4502-8622-0B99A1723D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE597F1-0909-4502-8622-0B99A1723D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE597F1-0909-4502-8622-0B99A1723D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE597F1-0909-4502-8622-0B99A1723D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE597F1-0909-4502-8622-0B99A1723D86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1445AD9B-8F2A-4A57-A2FE-13C929683654}
+	EndGlobalSection
+EndGlobal
